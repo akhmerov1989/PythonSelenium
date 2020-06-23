@@ -1,0 +1,6 @@
+1592063858753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fm/lnnwc82n4fj_ds3y4tr77mg80000gn/T/rust_mozprofilesu8Jzu"
+1592063863173	Marionette	INFO	Listening on port 64771
+1592063863258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592063876878	Marionette	INFO	Stopped listening on port 64771

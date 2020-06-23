@@ -1,0 +1,64 @@
+2020-06-19 10:10:52,322 :INFO : test_e2e :getting all the card titles
+2020-06-19 10:10:52,345 :INFO : test_e2e :iphone X
+2020-06-19 10:10:52,358 :INFO : test_e2e :Samsung Note 8
+2020-06-19 10:10:52,367 :INFO : test_e2e :Nokia Edge
+2020-06-19 10:10:52,377 :INFO : test_e2e :Blackberry
+2020-06-19 10:10:52,550 :INFO : test_e2e :Entering country  name as unit
+2020-06-19 10:10:58,015 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-19 10:14:19,965 :INFO : test_formSubmission :first  name is Sergey
+2020-06-19 10:14:24,676 :INFO : test_formSubmission :first  name is Rahul
+2020-06-19 10:14:24,676 :INFO : test_formSubmission :first  name is Rahul
+2020-06-19 10:14:37,200 :INFO : test_e2e :getting all the card titles
+2020-06-19 10:14:37,225 :INFO : test_e2e :iphone X
+2020-06-19 10:14:37,238 :INFO : test_e2e :Samsung Note 8
+2020-06-19 10:14:37,248 :INFO : test_e2e :Nokia Edge
+2020-06-19 10:14:37,257 :INFO : test_e2e :Blackberry
+2020-06-19 10:14:37,438 :INFO : test_e2e :Entering country  name as unit
+2020-06-19 10:14:42,902 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-20 12:52:19,284 :INFO : test_formSubmission :first  name is Sergey
+2020-06-20 12:52:20,117 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 12:52:20,117 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 12:52:26,553 :INFO : test_e2e :getting all the card titles
+2020-06-20 12:52:26,576 :INFO : test_e2e :iphone X
+2020-06-20 12:52:26,591 :INFO : test_e2e :Samsung Note 8
+2020-06-20 12:52:26,603 :INFO : test_e2e :Nokia Edge
+2020-06-20 12:52:26,615 :INFO : test_e2e :Blackberry
+2020-06-20 12:52:26,847 :INFO : test_e2e :Entering country  name as unit
+2020-06-20 12:52:32,371 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-20 13:10:17,982 :INFO : test_formSubmission :first  name is Sergey
+2020-06-20 13:10:21,095 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:10:21,095 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:10:33,024 :INFO : test_e2e :getting all the card titles
+2020-06-20 13:10:33,052 :INFO : test_e2e :iphone X
+2020-06-20 13:10:33,061 :INFO : test_e2e :Samsung Note 8
+2020-06-20 13:10:33,068 :INFO : test_e2e :Nokia Edge
+2020-06-20 13:10:33,075 :INFO : test_e2e :Blackberry
+2020-06-20 13:10:33,908 :INFO : test_e2e :Entering country  name as unit
+2020-06-20 13:10:39,999 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-20 13:22:03,181 :INFO : test_formSubmission :first  name is Sergey
+2020-06-20 13:22:04,027 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:22:04,027 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:22:10,734 :INFO : test_e2e :getting all the card titles
+2020-06-20 13:22:10,757 :INFO : test_e2e :iphone X
+2020-06-20 13:22:10,772 :INFO : test_e2e :Samsung Note 8
+2020-06-20 13:22:10,785 :INFO : test_e2e :Nokia Edge
+2020-06-20 13:22:10,796 :INFO : test_e2e :Blackberry
+2020-06-20 13:22:11,021 :INFO : test_e2e :Entering country  name as unit
+2020-06-20 13:22:16,638 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-20 13:25:24,360 :INFO : test_formSubmission :first  name is Sergey
+2020-06-20 13:25:25,179 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:25:25,179 :INFO : test_formSubmission :first  name is Rahul
+2020-06-20 13:25:31,623 :INFO : test_e2e :getting all the card titles
+2020-06-20 13:25:31,647 :INFO : test_e2e :iphone X
+2020-06-20 13:25:31,658 :INFO : test_e2e :Samsung Note 8
+2020-06-20 13:25:31,671 :INFO : test_e2e :Nokia Edge
+2020-06-20 13:25:31,683 :INFO : test_e2e :Blackberry
+2020-06-20 13:25:31,878 :INFO : test_e2e :Entering country  name as unit
+2020-06-20 13:25:37,485 :INFO : test_e2e :Text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-22 11:06:46,335 :INFO : test_formSubmission :first  name is Sergey

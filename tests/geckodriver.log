@@ -1,0 +1,10 @@
+1592673009992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fm/lnnwc82n4fj_ds3y4tr77mg80000gn/T/rust_mozprofilea0zpfw"
+1592673014779	Marionette	INFO	Listening on port 53518
+1592673014882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592673023891	Marionette	INFO	Stopped listening on port 53518
+1592673026337	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fm/lnnwc82n4fj_ds3y4tr77mg80000gn/T/rust_mozprofileX0a2nD"
+1592673028700	Marionette	INFO	Listening on port 53616
+1592673028772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592673040193	Marionette	INFO	Stopped listening on port 53616
